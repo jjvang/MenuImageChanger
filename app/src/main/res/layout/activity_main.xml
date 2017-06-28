@@ -7,6 +7,7 @@
     tools:context="com.example.ojboba.menuimagechanger.MainActivity">
 
     <TextView
+        android:id="@+id/textColor"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:textColor="@android:color/white"
